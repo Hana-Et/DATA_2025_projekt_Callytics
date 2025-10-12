@@ -1,7 +1,7 @@
 # Joining CDR and CMR data
 
 import pandas as pd
-import os
+import os 
 
 DATA_PATH = r"C:\Users\adamk\Desktop\Digitální akademie DATA\Projekt\2024_01_03\2024_01_03"
 
