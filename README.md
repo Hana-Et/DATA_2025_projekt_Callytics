@@ -1,12 +1,4 @@
-#Legenda:
-- ** staré skripty, nepoužívané
-------------------------------
-- ** chosen_columns.ipynb
-- ** data_cleaning.ipynb
-- ** data_cleaning_2.ipynb
-- ** hrani.ipynb
-- ** joining_cmr_cdr.py Původní skript
-- ** pickel.ipynb  uložení CDR do pickel
+- **Legenda**
 
 - 01 oba_celkem_pickle.py                         Sloučení CDR a CMR dat pomocí pickel
 - 02 chosen_columns_pickle.ipynb                  vybranné sloupce u cdr
@@ -16,3 +8,13 @@
 - 06 information_cdr_clean_nob00.ipynb            duplicity, počet unikátních hovorů v rámci měsíce a týdne
 - 07 statistika.ipynb                             počet řádků a sloupců, počet chybějících nan hodnot, skutečný počet unikátních hovorů, celkový počet řádků, skutečný počet hovorů, počet duplicitních záznamů
 - 08 statistika2.ipynb                            TOP 10 volaných a volajících, poměr přijatých a nepřijatých, , zabezpečení hovorů, délka hovorů, distribuce hovoru - mesíc, dny, casové bloky
+------------------------------
+- ** staré skripty, nepoužívané
+------------------------------
+- ** chosen_columns.ipynb
+- ** data_cleaning.ipynb
+- ** data_cleaning_2.ipynb
+- ** hrani.ipynb
+- ** joining_cmr_cdr.py Původní skript
+- ** pickel.ipynb  uložení CDR do pickel
+-------------------------------
