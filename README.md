@@ -15,3 +15,4 @@ Legenda:
 05 diff_numbers_cdr_clean_NOb00.ipynb           počet telefonních číslel končících na .0, různé zápisy volajících čísel, různé zápisy volaných čísel, přehled délek tel. čísel
 06 information_cdr_clean_nob00.ipynb            duplicity, počet unikátních hovorů v rámci měsíce a týdne
 07 statistika.ipynb                             počet řádků a sloupců, počet chybějících nan hodnot, skutečný počet unikátních hovorů, celkový počet řádků, skutečný počet hovorů, počet duplicitních záznamů
+08 statistika2.ipynb                            TOP 10 volaných a volajících, poměr přijatých a nepřijatých, , zabezpečení hovorů, délka hovorů, distribuce hovoru - mesíc, dny, casové bloky
