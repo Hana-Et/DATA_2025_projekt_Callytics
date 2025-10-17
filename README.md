@@ -1,4 +1,4 @@
-- **Legenda**
+**Legenda**
 
 - 01 oba_celkem_pickle.py                         Sloučení CDR a CMR dat pomocí pickel
 - 02 chosen_columns_pickle.ipynb                  vybranné sloupce u cdr
