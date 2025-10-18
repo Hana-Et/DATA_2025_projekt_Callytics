@@ -8,6 +8,15 @@
 - 06 information_cdr_clean_nob00.ipynb            duplicity, počet unikátních hovorů v rámci měsíce a týdne
 - 07 statistika.ipynb                             počet řádků a sloupců, počet chybějících nan hodnot, skutečný počet unikátních hovorů, celkový počet řádků, skutečný počet hovorů, počet duplicitních záznamů
 - 08 statistika2.ipynb                            TOP 10 volaných a volajících, poměr přijatých a nepřijatých, , zabezpečení hovorů, délka hovorů, distribuce hovoru - mesíc, dny, casové bloky
+- 09 hackaton_find_duplicates.ipynb                 kontrola duplicitnich radku a jejich odstraneni, odstraneni nulovych radku
+- 10 hackaton_remove_duplicates.ipynb               oprava notebook (?) -> nový soubor s daty cdr_clean_no_duplicates.pkl
+- 11                                                Oprava telefonních čísel  -> nový soubor s daty cdr_clean_unique_calls_update_num.pkl
+-                                                   nová data ->
+
+
+
+
+
 ------------------------------
 - ** staré skripty, nepoužívané
 ------------------------------
