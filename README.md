@@ -10,10 +10,13 @@
 - ~~08 statistika2.ipynb                            TOP 10 volaných a volajících, poměr přijatých a nepřijatých, , zabezpečení hovorů, délka hovorů, distribuce hovoru - mesíc, dny, casové bloky~~
 - 09 hackaton_find_duplicates.ipynb                 kontrola duplicitnich radku a jejich odstraneni, odstraneni nulovych radku
 - 10 hackaton_remove_duplicates.ipynb               oprava notebook (?) -> nový soubor s daty cdr_clean_no_duplicates.pkl
+- 11 hackaton_unique_calls.ipynb                    Vytvoření nového sloupce unique_call_id pro jedinečné hovory -> nový soubor cdr_clean_unique_calls.pkl
+- 12 hackaton_update_numbers.ipynb                  Oprava telefonních čísel  -> nový soubor s daty cdr_clean_unique_calls_update_num.pkl
+- 13 update_cdr_clean_unique_calls_update_num.ipynb Odstraněny další b00 hodnoty, nové data -> cdr_clean_unique_calls_update_num2.pkl
+- 14 duration_calls.ipynb                           Vytvoření nové tabulky pro délku jednotlivých hovorů -> soubor duration_unique_calls.pkl
 - data_cleaning.ipynb 
 - file_cdr_clean_nob00.ipynb                        nové
 - find_null.ipynb
-- hackaton_find_duplicates.ipynb 
   
 - update_cdr_clean_unique_calls_update_num.ipynb    -> nový soubor s daty cdr_clean_unique_calls_update_num.pkl
 - **nová data -> cdr_clean_unique_calls_update_num2.pkl**
