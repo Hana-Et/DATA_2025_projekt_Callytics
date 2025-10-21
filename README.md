@@ -12,14 +12,13 @@
 - 10 hackaton_remove_duplicates.ipynb               oprava notebook (?) -> nový soubor s daty cdr_clean_no_duplicates.pkl
 - 11 hackaton_unique_calls.ipynb                    Vytvoření nového sloupce unique_call_id pro jedinečné hovory -> nový soubor cdr_clean_unique_calls.pkl
 - 12 hackaton_update_numbers.ipynb                  Oprava telefonních čísel  -> nový soubor s daty cdr_clean_unique_calls_update_num.pkl
-- 13 update_cdr_clean_unique_calls_update_num.ipynb Odstraněny další b00 hodnoty, nové data -> cdr_clean_unique_calls_update_num2.pkl
+- 13 update_cdr_clean_unique_calls_update_num.ipynb Odstraněny další b00 hodnoty, **nové data -> cdr_clean_unique_calls_update_num2.pkl**
 - 14 duration_calls.ipynb                           Vytvoření nové tabulky pro délku jednotlivých hovorů -> soubor duration_unique_calls.pkl
 - data_cleaning.ipynb 
 - file_cdr_clean_nob00.ipynb                        nové
 - find_null.ipynb
   
-- update_cdr_clean_unique_calls_update_num.ipynb    -> nový soubor s daty cdr_clean_unique_calls_update_num.pkl
-- **nová data -> cdr_clean_unique_calls_update_num2.pkl**
+
 - duration_calls.ipynb                                aktualizace s novými daty, přijaté, nepřijaté, distribuce dat v čase měsíce, týdny
 - statistika2.ipynb                                   aktualizace s novými daty, distribuce hovorů dle měsíce, dnů a hodin, TOP1 volajícíc a volaný
 - pkl_to_csv.py                                       převedení aktuálních do csv pro potřeby PowerBi (cdr_clean_unique_calls_update_num2.csv)
