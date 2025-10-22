@@ -6,7 +6,7 @@ SELECT
     MIN(uc.dateTimeConnect) AS dateTimeConnect,
     MAX(uc.dateTimeDisconnect) AS dateTimeDisconnect,
     DATEDIFF(SECOND, MIN(uc.dateTimeConnect), MAX(uc.dateTimeDisconnect)) AS duration_seconds
-FROM dbo.cdr_unique_calls AS uc
+FROM dbo.fact_call AS uc
 GROUP BY uc.unique_call_id
 
 -------test 
