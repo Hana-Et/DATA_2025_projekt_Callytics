@@ -17,7 +17,7 @@
 - data_cleaning.ipynb 
 - file_cdr_clean_nob00.ipynb                        nové
 - find_null.ipynb
-  
+kontrola pro pocet NULL(NaN/NaT) v jednolivych sloupcich u souboru cdr_files_chosen_columns.pkl/cdr_clean.pkl/cdr_clean_unique_calls_update_num.pkl/
 
 - duration_calls.ipynb                                aktualizace s novými daty, přijaté, nepřijaté, distribuce dat v čase měsíce, týdny
 - statistika2.ipynb                                   aktualizace s novými daty, distribuce hovorů dle měsíce, dnů a hodin, TOP1 volajícíc a volaný
