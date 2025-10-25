@@ -21,7 +21,7 @@
 - duration_calls.ipynb                                aktualizace s novými daty, přijaté, nepřijaté, distribuce dat v čase měsíce, týdny
 - statistika2.ipynb                                   aktualizace s novými daty, distribuce hovorů dle měsíce, dnů a hodin, TOP1 volajícíc a volaný
 - pkl_to_csv.py                                       převedení aktuálních do csv pro potřeby PowerBi (cdr_clean_unique_calls_update_num2.csv)
-
+-CMR_clean1.ipynb                                      uprava datatypů - string (zde NULL=Unknown), timestamp, directoryNum - integer (NULL='-1')
 
 
 ------------------------------
