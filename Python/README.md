@@ -1,7 +1,7 @@
 **Legenda**
 
-- pkl_to_csv.py         převedení aktuálních do csv pro potřeby PowerBi (cdr_clean_unique_calls_update_num2.csv)
-- statistika2.ipynb     aktualizace s novými daty, distribuce hovorů dle měsíce, dnů a hodin, TOP1 volajícíc a volaný
+- pkl_to_csv.py                                  převedení aktuálních do csv pro potřeby PowerBi (cdr_clean_unique_calls_update_num2.csv)
+- statistika_done.ipynb                              distribuce hovorů dle měsíce, dnů a hodin, TOP1 volajícíc a volaný
 - hackaton_find_duplicates.ipynb                 kontrola duplicitnich radku a jejich odstraneni, odstraneni nulovych radku
 - hackaton_remove_duplicates.ipynb               oprava notebook (?) -> nový soubor s daty cdr_clean_no_duplicates.pkl
 - hackaton_unique_calls.ipynb                    Vytvoření nového sloupce unique_call_id pro jedinečné hovory -> nový soubor cdr_clean_unique_calls.pkl
