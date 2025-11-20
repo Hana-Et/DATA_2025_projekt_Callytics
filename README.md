@@ -1,24 +1,8 @@
-**Legenda**
- ~~04 file_cdr_clean_nob00.ipynb                   počet hodnot b00, odstranění řádků začínajících na b00~~
-- 05 diff_numbers_cdr_clean_NOb00.ipynb           počet telefonních číslel končících na .0, různé zápisy volajících čísel, různé zápisy volaných čísel, přehled délek tel. čísel
-- 06 information_cdr_clean_nob00.ipynb            duplicity, počet unikátních hovorů v rámci měsíce a týdne
-- 07 statistika.ipynb                             počet řádků a sloupců, počet chybějících nan hodnot, skutečný počet unikátních hovorů, celkový počet řádků, skutečný počet hovorů, počet duplicitních záznamů
-- ~~08 statistika2.ipynb                            TOP 10 volaných a volajících, poměr přijatých a nepřijatých, , zabezpečení hovorů, délka hovorů, distribuce hovoru - mesíc, dny, casové bloky~~
-
-- data_cleaning.ipynb 
-- file_cdr_clean_nob00.ipynb                        nové
-
-- statistika2.ipynb                                   aktualizace s novými daty, distribuce hovorů dle měsíce, dnů a hodin, TOP1 volajícíc a volaný
-- pkl_to_csv.py                                       převedení aktuálních do csv pro potřeby PowerBi (cdr_clean_unique_calls_update_num2.csv)
+**About this project**
+We are Lucka, Lenka, and Hana, and together we form the Callytics team as part of the Digital Academy Data by Czechitas. Our goal is to gain an overview of how calls are handled in the Cisco telephone system, their workload, and quality. We use CDR (Call Detail Record) and CMR (Call Management Record) data, which provide us with detailed information about each call and its technical parameters. We will use anonymized data for a three-month period.
+As part of the project, we are trying to analyze call records and create a database based on a data model that will make it easy to navigate the data. We will process the data in Python and SQL and then visualize it in Power BI. These visualizations can help company managers get a quick overview of the most important issues, such as the number of calls in a specific month, week, or day, the average length, the workload by time of day, the most active caller, and the quality of calls, if available.
 
 
-
-------------------------------
-- ** staré skripty, nepoužívané
-------------------------------
-- ** chosen_columns.ipynb
-- ** data_cleaning.ipynb
-- ** data_cleaning_2.ipynb
-- ** hrani.ipynb
-- ** joining_cmr_cdr.py Původní skript
--------------------------------
+**O projektu**
+Jsme Lucka, Lenka a Hana a společně tvoříme tým Callytics v rámci Digitální akademie Data od Czechitas. Naším cílem je získat přehled o tom, jak probíhají hovory v telefonním systému Cisco, jaká je jejich vytíženost a kvalita. Využíváme k tomu CDR (Call Detail Record) a CMR (Call Management Record) data, která nám poskytují detailní informace o každém hovoru i jeho technických parametrech. Budeme využívat anonymizovaná data za tříměsíční období.
+V rámci projektu se snažíme analyzovat záznamy hovorů a vytvořit databázi na základě datového modelu, díky kterému bude možné se v datech snadno orientovat. Data zpracujeme v pythonu, SQL a následně zobrazíme v Power BI. Tyto vizualizace mohou manažerovi firmy pomoci získat rychlý přehled o nejdůležitějších otázkách, například počet hovorů v konkrétním měsíci, týdnu nebo dnu, průměrnou délku, vytíženost podle denní doby, nejaktivnějšího volajícího i případnou kvalitu hovorů, pokud je dostupná. 
