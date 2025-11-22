@@ -9,7 +9,7 @@
 - file_cdr_clean_nob00.ipynb                      počet hodnot b00, odstranění řádků začínajících na b00
 - update_cdr_clean_unique_calls_update_num.ipynb Odstraněny další b00 hodnoty, **nové data -> cdr_clean_unique_calls_update_num2.pkl**
 - duration_calls.ipynb                           Vytvoření nové tabulky pro délku jednotlivých hovorů -> soubor duration_unique_calls.pkl
-CMR_clean1.ipynb                                      uprava datatypů - string (zde NULL=Unknown), timestamp, directoryNum - integer (NULL='-1')
-oba_celkem_pickle.py                         Sloučení CDR a CMR dat pomocí pickel
-chosen_columns_pickle.ipynb                  vybranné sloupce u cdr
-chosen_columns_dataTypes_pickle.ipynb        uprava datatypů - string, timestamp (0 =NaT)
+- CMR_clean1.ipynb                                      uprava datatypů - string (zde NULL=Unknown), timestamp, directoryNum - integer (NULL='-1')
+- oba_celkem_pickle.py                         Sloučení CDR a CMR dat pomocí pickel
+- chosen_columns_pickle.ipynb                  vybranné sloupce u cdr
+- chosen_columns_dataTypes_pickle.ipynb        uprava datatypů - string, timestamp (0 =NaT)
