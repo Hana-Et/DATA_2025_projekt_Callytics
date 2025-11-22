@@ -2,7 +2,7 @@
 
 We are Lucka, Lenka, and Hana, and together we form the Callytics team as part of the Digital Academy Data by Czechitas. Our goal is to gain an overview of how calls are handled in the Cisco telephone system, their workload, and quality. We use CDR (Call Detail Record) and CMR (Call Management Record) data, which provide us with detailed information about each call and its technical parameters. We will use anonymized data for a three-month period.
 
-As part of the project, we are trying to analyze call records and create a database based on a data model that will make it easy to navigate the data. We will process the data in Python and SQL and then visualize it in Power BI. These visualizations can help company managers get a quick overview of the most important issues, such as the number of calls in a specific month, week, or day, the average length, the workload by time of day, the most active caller, and the quality of calls, if available.
+Within the project, we are trying to analyze call records and create a database based on a data model that will make it easy to navigate the data. We will process the data in Python and SQL and then visualize it in Power BI. These visualizations can help company managers get a quick overview of the most important issues, such as the number of calls in a specific month, week, or day, the average length, the workload by time of day, the most active caller, and the quality of calls, if available.
 
 
 
